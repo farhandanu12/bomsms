@@ -27,16 +27,17 @@
  |  _ \ / _ \| '_ ` _ \  / __| '_ ` _ \/ __|
  | |_) | (_) | | | | | | \__ \ | | | | \__ \
  |____/ \___/|_| |_| |_| |___/_| |_| |_|___/
-                  by : amir furqon 
-Bom sms tools 
+                   by : amir furqon 
+            recode by : farhandanu12
+Tools Bom sms 
 Gunakan dengan bijak ! 
 thx to SGB Team.                                                        
 \n";
-echo "[?]Nomer tujuan: 0";
+echo "[?]Nomor tujuan: 0";
 $no = trim(fgets(STDIN));
-echo "[?]Jumlah : ";
+echo "[?]Isi Jumlah : ";
 $jmlh = trim(fgets(STDIN));
-echo "Masukkan Pesan : ";
+echo "isi pesan : ";
 $pesan = trim(fgets(STDIN));
 
 
