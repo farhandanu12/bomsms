@@ -28,7 +28,7 @@
  | |_) | (_) | | | | | | \__ \ | | | | \__ \
  |____/ \___/|_| |_| |_| |___/_| |_| |_|___/
                    by : amir furqon 
-            recode by : farhandanu12 ( reg yk )
+            recode by : farhandanu12 ( sgb reg yk )
 Tools Bom sms 
 Gunakan dengan bijak ! 
 thx to SGB Team / Sharing Gils Blog                                                        
