@@ -28,10 +28,10 @@
  | |_) | (_) | | | | | | \__ \ | | | | \__ \
  |____/ \___/|_| |_| |_| |___/_| |_| |_|___/
                    by : amir furqon 
-            recode by : farhandanu12
+            recode by : farhandanu12 ( reg yk )
 Tools Bom sms 
 Gunakan dengan bijak ! 
-thx to SGB Team.                                                        
+thx to SGB Team / Sharing Gils Blog                                                        
 \n";
 echo "[?]Nomor tujuan: 0";
 $no = trim(fgets(STDIN));
